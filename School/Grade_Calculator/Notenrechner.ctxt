@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Notenrechner
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Notenrechner.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=
+comment1.target=Notenrechner()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Notenrechner\n
+comment2.params=maxP\ myP
+comment2.target=double\ note(double,\ double)
+comment2.text=\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\n\ \n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\n
+numComments=3
